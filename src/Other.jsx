@@ -1,6 +1,8 @@
+import './design.css'
+
 export default function Other() {
     return (
-        <div>
+        <div className='App'>
             <h1>Other Page</h1>
             <a href={'/info'}>Info</a>
             <br></br>

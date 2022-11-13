@@ -1,6 +1,8 @@
+import './design.css'
+
 export default function Info() {
     return (
-        <div>
+        <div className="App">
             <h1>Info Page</h1>
             <a href={'/'}>Home</a>
             <br></br>

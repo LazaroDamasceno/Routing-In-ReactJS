@@ -1,6 +1,8 @@
+import './design.css'
+
 export default function Contact() {
     return (
-        <div>
+        <div className='App'>
             <h1>Contact Page</h1>
             <a href={'/info'}>Info</a>
             <br></br>

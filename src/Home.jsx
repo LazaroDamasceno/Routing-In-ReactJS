@@ -1,8 +1,8 @@
-import Routing from "./Routing"
+import './design.css'
 
 export default function Home() {
     return (
-        <div>
+        <div className='App'>
             <h1>Home Page</h1>
             <a href={'/info'}>Info</a>
             <br></br>
