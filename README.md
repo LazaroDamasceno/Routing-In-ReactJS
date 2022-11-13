@@ -2,6 +2,8 @@
 
 ## App running
 
+![Animação](https://user-images.githubusercontent.com/62726118/201504669-540d2fa9-7910-4b66-af71-645c20284691.gif)
+
 ## What to do afte downloading or cloning
 
 To make it run, it compulsory to type on CMD or similar app: "npm install". This command is going to install the required node modules.
