@@ -28,7 +28,7 @@ There two ways to create a vite application.
 
 The first one is type on CMD or similar app: "npm create vite". Then, select React with JavaScript. Finally, follow the finais orders given by the CMD.
 
-The other way is using the "template" word: "npm create routing-in-reactjs -- --template react".
+The other way is using the "template" word: "npm create vite routing-in-reactjs -- --template react".
 
 ## Running
 
